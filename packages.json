@@ -2,5 +2,9 @@
   {
     "package": "uniprotREST",
     "url": "https://github.com/csdaw/uniprotREST"
+  },
+  {
+    "package": "ggprism",
+    "url": "https://github.com/csdaw/ggprism"
   }
 ]
